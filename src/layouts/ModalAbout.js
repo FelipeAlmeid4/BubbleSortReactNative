@@ -21,7 +21,7 @@ export default (props) => {
                     <Text
                     selectable={true}
                     >
-                    Link
+                    https://github.com/FelipeAlmeid4/BubbleSortReactNative.git
                     </Text>
             </View>
         </Modal>
@@ -39,7 +39,8 @@ const styles = StyleSheet.create({
         backgroundColor: "#fff",
         borderRadius: 10,
         alignItems: 'center',
-        padding:30
+        padding:30,
+        justifyContent:'space-between'
     },
     text1:{
         fontSize:20
