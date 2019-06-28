@@ -1,2 +1,2 @@
-# BubbleSortReactNative
-Esse aplicativo faz a aplicação do algortimo Bubble Sort ordenando números.
+#BubbleSortReactNative
+Esse aplicativo faz a aplicação do algoritmo de ordenação bubble sort.
